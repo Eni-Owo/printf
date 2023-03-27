@@ -1,8 +1,3 @@
-_printf.c CODE
-
-
-
-
 #include "main.h"
 
 
